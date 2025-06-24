@@ -228,3 +228,14 @@ Open a Pull Request
  Analytics dashboard
  Mobile app
  Multi-language support
+
+ 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+🆘 Support
+If you encounter any issues or have questions:
+
+Check the Issues page
+Create a new issue with detailed information
+Join our discussions in the Discussions tab
